@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vostici.github.io/sitemap.html.gz
+Sitemap: https://vostici.github.io/app/sitemap.html.gz
+Sitemap: https://vostici.github.io/assets/sitemap.html.gz
+Sitemap: https://vostici.github.io/css/sitemap.html.gz
+Sitemap: https://vostici.github.io/data/sitemap.html.gz
+Sitemap: https://vostici.github.io/includes/sitemap.html.gz
+Sitemap: https://vostici.github.io/item/sitemap.html.gz
+Sitemap: https://vostici.github.io/src/sitemap.html.gz
